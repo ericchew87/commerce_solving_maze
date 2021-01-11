@@ -1,0 +1,8 @@
+name: Commerce Solving Maze
+type: module
+description: 'Provides the Solving Maze packaging strategy for Commerce Packaging.'
+configure: commerce_solving_maze.admin_settings_form
+package: Commerce (contrib)
+core: 8.x
+dependencies:
+  - commerce_packaging:commerce_packaging

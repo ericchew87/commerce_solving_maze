@@ -1,0 +1,3 @@
+administer commerce_solving_maze:
+  title: 'Administer Commerce Solving Maze'
+  description: 'Allows users to administer solving maze settings.'
