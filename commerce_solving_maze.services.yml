@@ -1,0 +1,4 @@
+services:
+  commerce_solving_maze.solving_maze_request:
+    class: Drupal\commerce_solving_maze\SolvingMazeRequest
+    arguments: ['@http_client', '@config.factory']
